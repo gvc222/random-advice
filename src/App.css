@@ -43,7 +43,16 @@
   appearance: none;
   border: none;
   outline: none;
+  height: 40%;
   background-color: #333;
   border-radius: 16px 16px 16px 16px;
   color: white;
+}
+
+.button:hover {
+  background-color: #3333335e;
+}
+
+.button:active {
+  background-color: #333333b1;
 }
